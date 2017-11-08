@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "321171907650",
-    "firebase_url": "https://same-package-test.firebaseio.com",
-    "project_id": "same-package-test",
-    "storage_bucket": "same-package-test.appspot.com"
+    "project_number": "107083404759",
+    "firebase_url": "https://fcmdemo-ca2a3.firebaseio.com",
+    "project_id": "fcmdemo-ca2a3",
+    "storage_bucket": "fcmdemo-ca2a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:321171907650:android:18ca42088a68d29a",
+        "mobilesdk_app_id": "1:107083404759:android:18ca42088a68d29a",
         "android_client_info": {
           "package_name": "com.fcmdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "321171907650-jpahu63vobr65f16bevl1d85ujqv0o7f.apps.googleusercontent.com",
+          "client_id": "107083404759-tdjt0bca6frg5p7fqabpnq9hlg3fjmk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcmdemo",
+            "certificate_hash": "c3ce30c5d8c0c0c1c461bed87dc0a3c34fabe191"
+          }
+        },
+        {
+          "client_id": "107083404759-u903v00nvpqf3kmaekg534or9koa979i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDnnHcbg_WFbfcIS06M4XuQAkswAdcBla4"
+          "current_key": "AIzaSyBaPQYNGTGfgREn1BsS_kBXjrTWoAENzl4"
         }
       ],
       "services": {
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107083404759-u903v00nvpqf3kmaekg534or9koa979i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107083404759-b60olcjl3p6d97vj0tiiq9pvodk0vp4s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.panpanhan.firebasedemo"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
